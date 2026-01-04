@@ -1,6 +1,6 @@
 if (-not $args) {
     Write-Host ''
-    Write-Host 'Need help? Check our homepage: ' -NoNewline
+    Write-Host 'Need help? Connnect with: ' -NoNewline
     Write-Host 'ClickWorld' -ForegroundColor Green
     Write-Host ''
 }
